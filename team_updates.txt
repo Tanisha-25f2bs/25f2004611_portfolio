@@ -1,4 +1,0 @@
-Development Team Started Git Practice.
-All members completed repository setup.
-New members assigned for documentation.
-Code review process initiated.
