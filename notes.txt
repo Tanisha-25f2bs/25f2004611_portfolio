@@ -1,3 +1,0 @@
-This portfolio project is created during Git & GitHub workshop.
-Git helps track changes in project files.
-GitHub helps in collaboration and project hosting.
